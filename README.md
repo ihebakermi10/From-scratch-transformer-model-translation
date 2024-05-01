@@ -34,7 +34,7 @@ For a quick demonstration, you can run the following script after setting up you
 
 ```python
 from translator import translate
-print(translate("Your text here", target_language='fr'))
+print(translate("Your text here"))
 ```
 
 ## Contributing
