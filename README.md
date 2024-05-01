@@ -41,7 +41,5 @@ print(translate("Your text here"))
 
 We welcome contributions from the community, whether they are feature requests, improvements, or bug fixes. Please follow the standard fork-and-pull request workflow to contribute.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
