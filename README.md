@@ -37,9 +37,5 @@ from translator import translate
 print(translate("Your text here"))
 ```
 
-## Contributing
-
-We welcome contributions from the community, whether they are feature requests, improvements, or bug fixes. Please follow the standard fork-and-pull request workflow to contribute.
-
 
 
