@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project develops a state-of-the-art multilingual Natural Language Processing (NLP) translation system utilizing the transformer architecture, primarily powered by Hugging Face and PyTorch. Our system is designed to handle multiple languages efficiently, featuring a unique proper name similarity component that enhances the accuracy of name translation across various languages.
+This project develops a state-of-the-art multilingual Natural Language Processing (NLP) translation system utilizing the transformer architecture, primarily powered by Hugging Face and PyTorch. Our system is designed to handle multiple languages efficiently, featuring a unique proper .
 
 The model is built as a self-learning system using transfer learning techniques, enabling continuous improvement as it processes more data. We leverage Azure ML for scalable training and deployment, MongoDB Atlas for efficient data storage and retrieval through Vector Search, and the Levenshtein algorithm to enhance our name similarity checks.
 
