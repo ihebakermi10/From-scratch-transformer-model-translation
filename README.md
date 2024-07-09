@@ -1,6 +1,6 @@
 
 
-# Multilingual NLP Translation Models with Name Similarity System
+# Multilingual NLP Translation Models 
 
 ## Overview
 
@@ -8,14 +8,6 @@ This project develops a state-of-the-art multilingual Natural Language Processin
 
 The model is built as a self-learning system using transfer learning techniques, enabling continuous improvement as it processes more data. We leverage Azure ML for scalable training and deployment, MongoDB Atlas for efficient data storage and retrieval through Vector Search, and the Levenshtein algorithm to enhance our name similarity checks.
 
-## Features
-
-- **Transformer Architecture**: Utilizing cutting-edge transformer models for high accuracy and context-aware translations.
-- **Hugging Face Integration**: Implementation of pre-trained models from Hugging Face for robust performance in multiple languages.
-- **Name Similarity System**: A custom system to handle the translation of proper names with higher accuracy using the Levenshtein distance metric.
-- **Self-Learning Capabilities**: Employing transfer learning methods to adapt and improve with every translation task.
-- **Multilingual Support**: Designed to support numerous languages, facilitating global communication.
-- **Technology Stack**: Azure ML, PyTorch, NLP, Large Language Models (LLM), Python, MongoDB Atlas, and regular expressions (re).
 
 ## Getting Started
 
